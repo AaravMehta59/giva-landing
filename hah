@@ -1,0 +1,5 @@
+ <p>
+         <Link href="/commands" className="h-color no-decoration">
+            Check out Commands &rarr;
+          </Link>
+        </p>
