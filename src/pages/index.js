@@ -16,7 +16,7 @@ export default function Home() {
         <title>GIVA BOT</title>
         <meta
           name="description"
-          content="Giva Bot | The Discord Bot"
+          content="Giva Bot | Feature packed discord bot to ease your discord life."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />

@@ -18,12 +18,12 @@ const Footer = () => {
           <div className="footer-items">
             <ul>
               <li>
-                <Link className="p-color" href="#">
+                <Link className="p-color" href="https://discord.gg/X7VTsN7G64">
                   /support
                 </Link>
               </li>
               <li>
-                <Link className="p-color" href="#">
+                <Link className="p-color" href="https://discord.gg/X7VTsN7G64">
                   /discord-server
                 </Link>
               </li>
@@ -45,18 +45,18 @@ const Footer = () => {
             <p className="p-color">{year} &copy; All rights reserved!</p>
           </div>
           <div className="footer-sec2-link">
-            <Link className="p-color no-decoration" href="#">
-              /support
+            <Link className="p-color no-decoration" href="https://discord.gg/X7VTsN7G64">
+              /support-server
             </Link>
             <Link
               target="_blank"
               className="p-color no-decoration"
-              href="https://aaravm.me/404.html"
+              href="https://github.com/AaravMehta59/giva-landing/"
             >
               /source-code
             </Link>
-            <Link className="p-color no-decoration" href="#">
-              /privacy-policy
+            <Link className="p-color no-decoration" href="https://aaravm.me/">
+              /aarav-mehta
             </Link>
           </div>
         </div>
@@ -66,3 +66,4 @@ const Footer = () => {
 };
 
 export default Footer;
+                                                                    

@@ -8,7 +8,7 @@ const Navbar = () => {
           <ul>
             <li>
               <Link className="h-color" href="/">
-                GIVA BOT
+                Giva Bot
               </Link>
             </li>
           </ul>
@@ -23,7 +23,7 @@ const Navbar = () => {
             <li>
               <Link
                 className="p-color"
-                href="https://aaravm.me/404.html"
+                href="https://github.com/AaravMehta59/giva-landing"
                 target="_blank"
               >
                 /source-code
